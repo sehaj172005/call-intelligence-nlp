@@ -168,4 +168,4 @@ Database Integration: To truly track conversation history, grievances, and call 
 
 Real-time Voice Input/Output: While conceptual voice input is present, a full implementation would involve integrating real-time Speech-to-Text (e.g., using OpenAI's Whisper API, Google Cloud Speech-to-Text, or a local model) and Text-to-Speech capabilities to create a fully interactive voicebot experience.
 
-Developed by Yatharth Dahuja, Agamjot Singh and Siya Srivastava for CyFuture AI Hackathon 2025
+Developed by Yatharth Dahuja, Agamjot Singh and Sehajdeep Singh for CyFuture AI Hackathon 2025
