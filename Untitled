@@ -1,0 +1,5 @@
+Before calling the API, it builds history_for_backend:
+
+Loops over st.session_state.messages.
+For each user message: appends {"role": "user", "content": msg["content"]}.
+For each assistant message: appends {"role": "assistant", "content": msg["response_content"]}.

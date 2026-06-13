@@ -1,0 +1,13 @@
+﻿# ai-customer-care/requirements.txt
+
+fastapi
+uvicorn[standard]
+streamlit
+requests
+transformers
+pydantic
+python-dotenv
+openai
+pandas
+numpy
+pillow
